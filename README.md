@@ -24,7 +24,7 @@ Cypress CY3280-22x45 : (Supports one (1) "CPM Shield Adaptor")
 
 For information on the Arduino Shield Specification, see http://www.arduino.cc
 
-Licensing LGPLv3 ( http://www.gnu.org/licenses/lgpl-3.0-standalone.html )
+Licensing GPLv3 ( http://www.gnu.org/licenses/gpl-3.0-standalone.html )
 
 PatternAgents uses the increasingly popular business model called "Dual Licensing" 
 in which both the open source software distribution mechanism and traditional commercial software distribution models are combined.
